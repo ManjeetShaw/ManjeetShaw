@@ -67,6 +67,10 @@
 
 ---
 
+🔍 [**Explore my full interactive tech stack →**](https://manjeetshaw.github.io/tech-stack)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
